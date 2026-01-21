@@ -1,0 +1,6 @@
+Name: Igbu Omaoghene Valor
+Matric Number: 23ag032712
+Machine Learning Algorithm Used: Linear Regression
+Model Persistence Method Used: Joblib
+Live URL: https://houseprice-project-igbuvalor-23ag032712-3.onrender.com
+GitHub Repository: https://github.com/valorcell/HousePrice_Project_IgbuValor_23ag032712
